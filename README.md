@@ -1,2 +1,2 @@
 # git-example
-This is the description of the Repository
+This is a description of the Repository
